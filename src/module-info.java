@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mbaziane
+ *
+ */
+module test {
+}
